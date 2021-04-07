@@ -1,0 +1,29 @@
+@media (max-width: 1200px) {
+
+
+
+    #main-vpn .mid-section h2 {
+        font-size: 41px;
+    }
+    #main-vpn .mid-section .main-p{
+        font-size: 20px;
+
+    }
+    .block-3 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+}
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+@media (max-width: 480px) {
+
+}
