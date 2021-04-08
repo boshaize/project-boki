@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: "Rubik", sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
 a {
@@ -29,7 +29,6 @@ ul {
   margin: 0 auto;
   position: relative;
 }
-
 .header__row {
   display: flex;
   align-items: center;
@@ -39,13 +38,12 @@ ul {
   height: 91px;
   padding-top: 46px;
 }
-
 .header__logo {
   margin-right: 157px;
 }
-
 .header__menu {
   display: flex;
 }
-
-/*# sourceMappingURL=style.css.map */
+.header__menu-link:not(:first-child) {
+  margin-right: ;
+}
