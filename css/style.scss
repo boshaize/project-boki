@@ -60,22 +60,19 @@ ul {
 }
 
 .header__menu-link:hover {
-  color: #e5dfc6;
+  color: #F53838;
   transition: 300ms all;
 }
 
 .header__link-login {
-  margin-left: auto;
+  margin-left: 30px;
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
   color: #0B132A;
+  width: 100%;
 }
 
-.header__link-login:hover {
-  color: #8a8881;
-  transition: 300ms all;
-}
 
 .header__btn-login {
   width: 150px;
